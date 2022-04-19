@@ -1,0 +1,6 @@
+Tutorial: https://docs.google.com/document/d/1O1urXcxbJMLSnAcMg0eJkRVd2YZjDTeDqK5dqr_vnUs/edit#
+
+Note:
+before running this application run the Api-gateway-first-service and Api-gateway-second-service
+
+If you want the java based configuration for API gateway run the Spring-cloud-gateway-demo
