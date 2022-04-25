@@ -3,9 +3,10 @@ under Spring Cloud Config
 
 Running steps:
 -------------
-Before running this application run the "employee-config" project
-you will be able to see the properties defined in employee-config is accesible here.
-
+Before running this application run the "employee-config-local" or  "employee-config-git"  project
+you will be able to see the properties defined in 
+employee-config-local is accesible here if you have started the  "employee-config-local".
+else from git
 Now go and modify the employee-config->resources->common-config->application.properties-> message value anything else
 and restart the employee-config only
 

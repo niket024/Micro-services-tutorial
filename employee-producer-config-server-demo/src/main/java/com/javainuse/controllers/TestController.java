@@ -10,12 +10,12 @@ import org.springframework.web.bind.annotation.RestController;
 @RefreshScope
 public class TestController {
 
-	@Value("${message}")
+	@Value("${eureka.client.serviceUrl.defaultZone}")
 	private String message;
 
 	@RequestMapping(value = "/test", method = RequestMethod.GET)
 	public String firstPage() {
-
+		System.out.println("test endpoint added");
 		return message;
 	}
 

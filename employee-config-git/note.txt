@@ -1,0 +1,4 @@
+Follow: https://docs.google.com/document/d/1O1urXcxbJMLSnAcMg0eJkRVd2YZjDTeDqK5dqr_vnUs/edit#
+under Spring Cloud Config
+
+testing endpoint: http://localhost:8888/employee-config-server/default
