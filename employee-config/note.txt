@@ -1,0 +1,4 @@
+Follow: https://docs.google.com/document/d/1O1urXcxbJMLSnAcMg0eJkRVd2YZjDTeDqK5dqr_vnUs/edit#
+under Spring Cloud Config
+
+spring.profiles.active=native property tells the colfig module to look for the externalized properties locally.
